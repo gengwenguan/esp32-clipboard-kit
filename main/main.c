@@ -15,10 +15,6 @@ void app_main(void)
     // Initialize Buttons
     button_init();
 
-    // Initialize USB HID
-
-    //usb_hid_set_enabled(false); // Start with USB disabled
-
     // Initialize WiFi Provisioning (and Networking)
     wifi_prov_init();
 }
