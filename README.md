@@ -1,4 +1,4 @@
-# SoftAP 配网与共享剪贴板（ESP32-S3）
+# ESP32 Clipboard Kit - SoftAP 配网与共享剪贴板
 
 ## 项目简介
 
